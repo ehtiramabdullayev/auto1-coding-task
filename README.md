@@ -1,5 +1,7 @@
 # random-coding-task
 
+## Look into the branch ```solution``` for the solution
+
 ------------------
 * Let's keep it simple
 
