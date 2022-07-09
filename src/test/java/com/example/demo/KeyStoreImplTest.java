@@ -59,7 +59,6 @@ class KeyStoreImplTest {
         Assertions.assertEquals("255", keyStoreInt.storeKey(255, "a"));
     }
 
-
     @DisplayName("check success")
     @Test
     void whenRetrieveKeyWithIntShouldSuccess() {
@@ -67,6 +66,4 @@ class KeyStoreImplTest {
 
         Assertions.assertEquals("value", keyStoreInt.returnValue(255));
     }
-
-
 }

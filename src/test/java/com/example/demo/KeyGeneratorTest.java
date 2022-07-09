@@ -17,5 +17,4 @@ class KeyGeneratorTest {
     void checkIfKeyGenerationSuccess() {
         System.out.println(keyGenerator.generateKey());
     }
-
 }
