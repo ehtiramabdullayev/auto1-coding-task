@@ -6,18 +6,16 @@ There are 3 numbers from 1-3 you need to implement them one after another
 ```
 1 Let's keep it simple
 
-Storage
-
-Write a method that takes two parameters: a key and a secret. Store them and return the given key. 
+Storage:
+a. Write a method that takes two parameters: a key and a secret. Store them and return the given key. 
 
 Constraints:
-1. key (not longer than 20): f.e. mY-cUsTom-kEy 
-2. secret: f.e. My secret no one should know!
-3. key (case-insensitive): f.e. "mY-cUsTom-kEy" or "my-custom-key"
+a. key (not longer than 20): f.e. mY-cUsTom-kEy 
+b. secret: f.e. My secret no one should know!
+c. key (case-insensitive): f.e. "mY-cUsTom-kEy" or "my-custom-key"
 
 Retrieval:
-Write a method that takes one parameter, the key, and returns the stored secret. 
-
+a. Write a method that takes one parameter, the key, and returns the stored secret. 
 
 -------------------------------
 
